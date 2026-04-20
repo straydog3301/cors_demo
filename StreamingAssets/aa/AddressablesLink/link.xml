@@ -36,6 +36,8 @@
     <type fullname="CyberOccult.NaniExtensions.SetLocation" preserve="nothing" serialized="true" />
     <type fullname="CyberOccult.NaniExtensions.StartRepair" preserve="nothing" serialized="true" />
     <type fullname="CyberOccult.NaniExtensions.WaitUntilVariable" preserve="nothing" serialized="true" />
+    <type fullname="SendForm" preserve="nothing" serialized="true" />
+    <type fullname="SetupPlayerID" preserve="nothing" serialized="true" />
     <type fullname="CyberOccult.Data.LootData" preserve="nothing" serialized="true" />
     <type fullname="CyberOccult.Data.ObstacleInfo" preserve="nothing" serialized="true" />
     <type fullname="CyberOccult.Data.WaypointInfo" preserve="nothing" serialized="true" />
@@ -187,6 +189,8 @@
     <type fullname="Naninovel.Commands.SpawnShake" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.Commands.Stop" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.Commands.StopBgm" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.StopSfx" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.StopVoice" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.Commands.Wait" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.CommentLine" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.EmptyLine" preserve="nothing" serialized="true" />
